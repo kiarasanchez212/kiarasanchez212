@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kiarasanchez212.
 - 👀 I’m interested in Data Science and AI.
-- 🌱 I’m currently learning Data Science and Engineering at ULPGC.
+- 🌱 I hold a Bsc in Data Science and Engineering from ULPGC.
+- ✨ I'm currently working as AI Researcher.
 - 💞️ I’m looking to collaborate on any project related to this fields.
 - 📫 How to reach me [https://www.linkedin.com/in/kiara-sanchez-cordero/](https://www.linkedin.com/in/kiara-sanchez-cordero/).
 
